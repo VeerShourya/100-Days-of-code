@@ -1,0 +1,3 @@
+
+    printf("Enter the number: ");
+   
